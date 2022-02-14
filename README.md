@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile, web & machine learning technologies
 - 🌱 I’m currently learning rust & the anchor framework
 - 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me: murungaephantus@gmail.com
+- 📫 How to reach me: murunga.ephantus@muchconsulting.de
 
 <!---
 much-murunga/much-murunga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
